@@ -1,3 +1,5 @@
 Print("miniBot")
 Print("teste")
-Print (teste2")
+Print ("teste2")
+print ("teste3")
+print ("teste4")
