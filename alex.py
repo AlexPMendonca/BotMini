@@ -100,3 +100,4 @@ execute_trade(signal)
 
 # Desconectar do MetaTrader 5
 mt5.shutdown()
+Print("teste")
