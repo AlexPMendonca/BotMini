@@ -97,3 +97,4 @@ while True:
 
 
 mt5.shutdown()
+Alex 
