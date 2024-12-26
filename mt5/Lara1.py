@@ -78,9 +78,6 @@ def enviar_ordem(symbol, sinal):
         print(f"Ordem {sinal} enviada com sucesso")
 
 
-
-
-
 import time
 
 while True:
