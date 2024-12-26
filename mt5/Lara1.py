@@ -97,4 +97,4 @@ while True:
 
 
 mt5.shutdown()
-Alex 
+#Alex P Mendonca
