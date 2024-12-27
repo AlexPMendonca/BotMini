@@ -9,8 +9,8 @@ from tensorflow.keras.layers import Dense, LSTM
 #MetaTrader5: Para interagir com a plataforma de negociação MetaTrader 5.
 #pandas: Para manipulação de dados em forma de DataFrame.
 #numpy: Para operações numéricas.
-MinMaxScaler: Para normalizar os dados entre 0 e 1.
-TensorFlow Keras: Para criar e treinar um modelo de rede neural LSTM.#
+#MinMaxScaler: Para normalizar os dados entre 0 e 1.
+#TensorFlow Keras: Para criar e treinar um modelo de rede neural LSTM.#
 # Conectar ao MetaTrader 5
 if not mt5.initialize():
     print("Erro ao inicializar MetaTrader 5")
